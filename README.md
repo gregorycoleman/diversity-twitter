@@ -9,4 +9,5 @@ _If you would like to add any, please submit a pull request_
 * [BlackGirlsCode Miami] ‏https://twitter.com/VolunteerBGCMIA  
 
 ## Girls Who Code
+* [Reshma Saujani] ‏https://twitter.com/reshmasaujani  Founder and CEO of @GirlsWhoCode
 * [Girls Who Code] ‏https://twitter.com/girlswhocode
