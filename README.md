@@ -4,12 +4,12 @@ Twitter feeds of interesting people to follow for Diversity & Inclusion
 
 _If you would like to add any Twitter feeds or corrections, please submit a pull request_
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+Table of Contents
+=================
 
-- [Diversity-Twitter List](#)
-	- [Black Girls Code](#)
-	- [Girls Who Code](#)
-	- [Women In Tech](#)
+	- [Black Girls Code](#black-girls-code)
+	- [Girls Who Code](#girls-who-code)
+	- [Women In Tech](#women-in-tech)
 	
 ## Black Girls Code
 * [BlackGirlsCode.Com] https://twitter.com/BlackGirlsCode - The main Black Girls Code twitter feed.
