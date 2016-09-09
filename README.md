@@ -27,7 +27,9 @@ Table of Contents
 ## Girls Who Code
 * [Girls Who Code] ‏https://twitter.com/girlswhocode
 
+<<<<<<< HEAD
 ## Professional Societies
+
 * [Association for Women in Science] ‏https://twitter.com/AWISNational
 * [American Association for University Women] ‏https://twitter.com/AAUWSTEM, STEM Division.
 * [National Society of Black Physicists (NSBP)] ‏https://twitter.com/BlackPhysicists
@@ -69,4 +71,5 @@ Table of Contents
 * [Sara Chipps] ‏https://twitter.com/SaraJChipps - Co-founder of Girl Develop It and CTO of Flatiron School.
 * [Shaherose Charania] ‏https://twitter.com/shaherose -  CEO and Co-Founder of Women 2.0.
 * [Vanessa Hurst] ‏https://twitter.com/DBNess - Co-founder of Girl Develop It and Write Speak Code.
+<<<<<<< HEAD
        
