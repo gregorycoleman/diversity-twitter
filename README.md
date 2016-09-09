@@ -27,7 +27,7 @@ Table of Contents
 ## Girls Who Code
 * [Girls Who Code] ‏https://twitter.com/girlswhocode
 
-# Professional Societies
+## Professional Societies
 * [Association for Women in Science] ‏https://twitter.com/AWISNational
 * [American Association for University Women] ‏https://twitter.com/AAUWSTEM, STEM Division.
 * [National Society of Black Physicists (NSBP)] ‏https://twitter.com/BlackPhysicists
