@@ -27,7 +27,6 @@ Table of Contents
 ## Girls Who Code
 * [Girls Who Code] ‏https://twitter.com/girlswhocode
 
-<<<<<<< HEAD
 ## Professional Societies
 
 * [Association for Women in Science] ‏https://twitter.com/AWISNational
