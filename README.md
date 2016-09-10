@@ -70,5 +70,5 @@ Table of Contents
 * [Sara Chipps] ‏https://twitter.com/SaraJChipps - Co-founder of Girl Develop It and CTO of Flatiron School.
 * [Shaherose Charania] ‏https://twitter.com/shaherose -  CEO and Co-Founder of Women 2.0.
 * [Vanessa Hurst] ‏https://twitter.com/DBNess - Co-founder of Girl Develop It and Write Speak Code.
-<<<<<<< HEAD
+
        
