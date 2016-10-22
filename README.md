@@ -15,26 +15,26 @@ Table of Contents
 - [Women In Tech](#women-in-tech)
 	
 ## Black Girls Code
-* [BlackGirlsCode.Com] https://twitter.com/BlackGirlsCode - The main Black Girls Code twitter feed.
-* [BlackGirlsCode Miami] ‏https://twitter.com/VolunteerBGCMIA  
-* [BlackGirlsCODE LA] ‏https://twitter.com/@volunteerBGCLA
-* [BlackGirlsCODE Dallas] ‏https://twitter.com/@VolunteerBGCDAL
-* [BlackGirlsCode Detroit] ‏https://twitter.com/VolunteerBGCDET
-* [BlackGirlsCode Boston] https://twitter.com/VolunteerBGCBOS
-* [BlackGirlsCode Chicago] ‏https://twitter.com/@VolunteerBGCCHI
-* [BlackGirlsCode Raleigh - Durham]  https://twitter.com/volunteerBGCRD  
+* [BlackGirlsCode.Com] (https://twitter.com/BlackGirlsCode) - The main Black Girls Code twitter feed.
+* [BlackGirlsCode Miami] (https://twitter.com/VolunteerBGCMIA)  
+* [BlackGirlsCODE LA] (https://twitter.com/@volunteerBGCLA)
+* [BlackGirlsCODE Dallas] (https://twitter.com/@VolunteerBGCDAL)
+* [BlackGirlsCode Detroit] (https://twitter.com/VolunteerBGCDET)
+* [BlackGirlsCode Boston] (https://twitter.com/VolunteerBGCBOS)
+* [BlackGirlsCode Chicago] (https://twitter.com/@VolunteerBGCCHI)
+* [BlackGirlsCode Raleigh - Durham]  (https://twitter.com/volunteerBGCRD)  
 
 ## Girls Who Code
-* [Girls Who Code] ‏https://twitter.com/girlswhocode
+* [Girls Who Code] (https://twitter.com/girlswhocode)
 
 ## Professional Societies
 
-* [Association for Women in Science] ‏https://twitter.com/AWISNational
-* [American Association for University Women] ‏https://twitter.com/AAUWSTEM, STEM Division.
-* [National Society of Black Physicists (NSBP)] ‏https://twitter.com/BlackPhysicists
-* [National Society of Black Engineers (NSBE) ] ‏https://twitter.com/NSBE
-* [African Astronomical Society (AfAS) @AfricaAstronomy: Pan-African professional society for astronomers.
-* [Women of Color Technology Magazine ] ‏https://twitter.com/@WOCTechnology - The magazine features profiles of Women Engineers and Technologists. 
+* [Association for Women in Science] (https://twitter.com/AWISNational)
+* [American Association for University Women] (https://twitter.com/AAUWSTEM), STEM Division.
+* [National Society of Black Physicists (NSBP)] (https://twitter.com/BlackPhysicists)
+* [National Society of Black Engineers (NSBE) ] (https://twitter.com/NSBE)
+* [African Astronomical Society (AfAS)] (https://twitter.com/@AfricaAstronomy) : Pan-African professional society for astronomers.
+* [Women of Color Technology Magazine ] (https://twitter.com/@WOCTechnology) - The magazine features profiles of Women Engineers and Technologists. 
 
 ## Recruitment
 * [MeVitae]  ‏https://twitter.com/@MeVitae.
